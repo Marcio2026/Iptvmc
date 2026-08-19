@@ -1,11 +1,6 @@
 ﻿#EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/sbtrio.png" group-title="Variedades",SBT Rio (Youtube)
-https://ythlsgo.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/wp-content/uploads/2023/07/sbtrs.png" group-title="Variedades",SBT RS (Youtube)
-
 #EXTINF:-1,SBT TV JORNAL RECIFE
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6875
 
