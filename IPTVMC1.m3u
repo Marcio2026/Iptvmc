@@ -112,6 +112,14 @@ https://video05.logicahost.com.br/tvsol/tvsol/chunklist_w2127385047.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/72aed59d7561ddd594bcca933ee6574e.webp" group-title="NORDESTE", TV CARUARA PE
 https://stmv5.samcast.com.br/severino9163/severino9163/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/Ea5KBfh.png" group-title="NORDESTE",TV CLUBE RN
+https://radios.braviahost.com.br:2020/hls/tvclubern/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://pazevida.org.br/wp-content/uploads/2024/06/MIDIA-KIT-TV-FELIZ_Pagina_01-1024x576.jpg" group-title="NORDESTE",TV FELIZ RN
+https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w751926212.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/o4i6Nca.png" group-title="BRASIL",NOSSA TV MOSSORO
+https://cdn.livespanel.com/nossatv/nossatv/chunks.m3u8?nimblesessionid=113767985
 
 ############################################################################ CANAIS ESPORTES
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports HD
