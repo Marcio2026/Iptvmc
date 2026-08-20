@@ -121,6 +121,9 @@ https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w751926212.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/o4i6Nca.png" group-title="BRASIL",NOSSA TV MOSSORO
 https://cdn.livespanel.com/nossatv/nossatv/chunks.m3u8?nimblesessionid=113767985
 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title="Variedades", TV Gazeta RN
+https://live.eu-north-1b.cf.dmcdn.net/sec2(lmoj6DrXBlU5R3bKI2NKKn6hhJwTPhOpoW6ZsMa3zHuzTqjCoRj3DP8KNWrxtIA0c7ZC29T6zT5JeYopRiUI8XtG2_BRxKqz92o_IJcLSi_wfm6VUEwVjuYteQaZZ2Ib)/dm/3/x8ttlxm/s/live-1080.m3u8#cell=lcf-eu-north-1b
+
 ############################################################################ CANAIS ESPORTES
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports HD
 http://185.152.67.187:14474/
