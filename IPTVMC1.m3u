@@ -94,6 +94,24 @@ https://stmv2.samcast.com.br/carla7379/carla7379/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_top_latino_png_2017_-_500px.png" group-title="NORDESTE", Latina TV
 https://www.latinasat.com.br/hls/live/stream/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/fiUk40Y.png" group-title="NORDESTE", TV NOVA PLAY PB
+https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/dyqS3ET.png" group-title="NORDESTE", TV SOL PB
+https://video05.logicahost.com.br/tvsol/tvsol/chunklist_w530129184.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/MEuLfcO.png" group-title="NORDESTE", TV CARIRI PB
+https://video05.logicahost.com.br/cariritv/cariritv/chunklist_w673523353.m3u8
+
+#EXTINF:-1 tvg-logo="https://guiatvbrazil.tv.br/wp-content/uploads/2023/02/logoAtivo-2.png" group-title="NORDESTE", Guia Tv Ao Vivo PB
+https://video05.logicahost.com.br/guiatvpombal/guiatvpombal/chunklist_w666890467.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/EhVnAew.png" group-title="NORDESTE", TV PORTAL SOL PB
+https://video05.logicahost.com.br/tvsol/tvsol/chunklist_w2127385047.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/72aed59d7561ddd594bcca933ee6574e.webp" group-title="NORDESTE", TV CARUARA PE
+https://stmv5.samcast.com.br/severino9163/severino9163/playlist.m3u8
+
 
 ############################################################################ CANAIS ESPORTES
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports HD
